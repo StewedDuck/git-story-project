@@ -1,7 +1,3 @@
 # git-story-project
 my repo
-<<<<<<< HEAD
-/n Haha so easy it all mine now!!
-=======
-back to mine☻
->>>>>>> main
+back to mine☻, NEXT time it won't be that easy
